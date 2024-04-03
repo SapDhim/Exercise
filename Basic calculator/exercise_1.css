@@ -1,0 +1,41 @@
+.main-container
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.h2-form
+{
+    background-color: black;
+    border-radius: 20px;
+    width:32%;
+
+}
+.h2-1
+{
+    text-align: center;
+    color: white;
+}
+.form-1
+{
+    display: flex;
+    justify-content: center;
+}
+.num11
+{
+    color: white;
+
+}
+.output-1
+{
+    color: white;
+}
+
+.button-1
+{
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+  
+}
